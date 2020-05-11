@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+.ErrorText {
+  color: red;
+  font-size: small;
+  padding: 0em;
+  margin: 0em;
+}
 
 .App-logo {
   height: 40vmin;
